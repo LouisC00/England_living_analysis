@@ -12,65 +12,88 @@
         "Overqualification and Career Downgrades",
         "Workplace Culture and Integration",
         "Access to Professional Networking Opportunities",
-        "Overcoming Language Barriers in Everyday Life"
+        "Balancing Work with Family Responsibilities"
     ],
     "Healthcare and Well-Being": [
         "Understanding Local Healthcare Systems",
         "Access to Primary and Emergency Care",
         "Mental Health Resources Availability",
         "Financial Barriers to Healthcare",
-        "Language and Cultural Barriers in Health Services"
+        "Navigating Health Insurance Systems",
+        "Communicating Effectively with Healthcare Providers"
     ],
     "Social and Cultural Adjustment": [
         "Building Community and Social Connections",
         "Adapting to New Social Norms and Etiquette",
-        "Overcoming Language Barriers in Everyday Life",
+        "Overcoming General Language Barriers in Social Contexts",
         "Facing and Addressing Discrimination",
-        "Parenting Challenges in a New Cultural Environment"
+        "Parenting Challenges in a New Cultural Environment",
+        "Celebrating and Preserving Cultural Traditions"
     ],
     "Legal and Bureaucratic Challenges": [
         "Navigating Immigration and Residency Requirements",
         "Understanding Tax Obligations",
         "Securing Visas and Work Permits",
         "Accessing Legal Aid or Advocacy Services",
-        "Filing Necessary Documentation for Families"
+        "Filing Necessary Documentation for Families",
+        "Understanding Local Laws and Regulations"
     ],
     "Education and Personal Development": [
         "Accessing Education for Children and Adults",
         "Recognition of Previous Educational Credentials",
         "Enrolling in Language and Integration Programs",
         "Financial Barriers to Education and Training",
-        "Balancing Education with Work or Family Responsibilities"
+        "Exploring New Career or Academic Opportunities"
     ],
     "Transportation and Mobility": [
         "Navigating Public Transportation Systems",
-        "Obtaining Driver\u2019s Licenses or Vehicle Registration",
+        "Obtaining Driver’s Licenses or Vehicle Registration",
         "Cost and Accessibility of Transportation",
         "Challenges in Rural or Suburban Mobility",
-        "Adjusting to New Traffic Rules and Regulations"
+        "Adjusting to New Traffic Rules and Regulations",
+        "Learning to Drive in a New Environment"
     ],
     "Financial and Budgeting Challenges": [
         "Setting Up Bank Accounts and Building Credit",
         "Understanding Local Taxes and Financial Systems",
         "Managing Cost of Living in High-Expense Areas",
         "Sending Money Abroad to Family",
-        "Saving for Long-Term Goals"
+        "Planning and Budgeting for Financial Security"
     ],
     "Family Dynamics and Support": [
         "Adjusting to Changing Family Roles",
         "Reuniting with Family Across Borders",
-        "Supporting Children\u2019s Educational and Social Needs",
+        "Supporting Children’s Educational and Social Needs",
         "Caring for Aging Parents Remotely",
-        "Managing Relationships in Cross-Cultural Marriages"
+        "Managing Relationships in Cross-Cultural Marriages",
+        "Strengthening Family Bonds in a New Environment"
     ],
     "Identity and Emotional Well-Being": [
         "Coping with Culture Shock and Loneliness",
         "Balancing Old and New Cultural Identities",
         "Addressing Feelings of Isolation or Marginalization",
         "Finding Support Networks for Emotional Health",
-        "Building a Sense of Belonging in the New Country"
+        "Building a Sense of Belonging in the New Country",
+        "Overcoming Trauma and Resilience Building"
     ],
-    "Uncategorized": [
-        "Uncategorized"
+    "Public Safety and Security Concerns": [
+        "Perception of Neighbourhood Safety",
+        "Navigating Local Law Enforcement and Emergency Services",
+        "Personal Safety Strategies",
+        "Anxiety About Personal Safety"
+    ],
+    "Political Environment and Governance": [
+        "Understanding Local Political Parties and Policies",
+        "Concerns about Authoritarian or Repressive Tendencies",
+        "International Relations and Policy Impact on Immigrants"
+    ],
+    "Economic and Financial Stability": [
+        "Adapting to Market Fluctuations and Economic Changes",
+        "Building Resilience Against Economic Uncertainty"
+    ],
+    "Personal Care and Appearance": [
+        "Finding Quality Hair Salons",
+        "Poor Quality Hair Salon Services",
+        "Locating Professional Hong Kong Hairstylists"
     ]
 }
